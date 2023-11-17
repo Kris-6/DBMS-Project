@@ -5,3 +5,5 @@ This website, named STRI is a basic online shopping website created by a team of
 
 References 
 Images : okhai.org and Myntra 
+
+link:https://kris-6.github.io/DBMS-Project/aboutus.html
