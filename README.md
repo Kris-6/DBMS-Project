@@ -1,4 +1,4 @@
-# DBMS-Project
+# UI-Project
 Overview
 
 This website, named STRI is a basic online shopping website created by a team of 1st-year students as a part of our UI(User Interface) course . The project uses HTML, CSS, and JavaScript to provide a user-friendly and interactive interface 
